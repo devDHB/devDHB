@@ -5,5 +5,4 @@
 <br/>
 
 - 📝 個人プロジェクト...
-<br/>
-  https://github.com/devDHB/auth-practice
+<br/>https://github.com/devDHB/auth-practice
